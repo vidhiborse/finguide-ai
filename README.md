@@ -50,7 +50,7 @@
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/finguide-ai.git
+git clone https://github.com/vidhiborse/finguide-ai.git
 
 # Enter project directory
 cd finguide-ai
