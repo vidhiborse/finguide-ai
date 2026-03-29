@@ -104,13 +104,6 @@ User → React Frontend → Firebase Auth → Dashboard
 ---
 
 ## 👩‍💻 Built By
-**Team FinGuide** — ET AI Hackathon 2026
+**Team FinGuide-vidhiborse369** — ET AI Hackathon 2026
 
 *Every rupee saved. Every goal tracked. Every Indian deserves a financial mentor.*
-```
-
-Save this file then run:
-```
-git add README.md
-git commit -m "Add README with setup instructions"
-git push
