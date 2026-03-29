@@ -104,6 +104,6 @@ User → React Frontend → Firebase Auth → Dashboard
 ---
 
 ## 👩‍💻 Built By
-**Team FinGuide-vidhiborse369** — ET AI Hackathon 2026
+**Team-vidhiborse369** — ET AI Hackathon 2026
 
 *Every rupee saved. Every goal tracked. Every Indian deserves a financial mentor.*
