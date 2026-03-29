@@ -100,4 +100,4 @@ All financial math runs in the browser — no server needed.
 - API keys: Client-side (acceptable for hackathon — production would use backend proxy)
 - Data: Each user can only access their own Firestore document (UID-based rules)
 - HTTPS: Enforced by Vercel on all traffic
-```
+
