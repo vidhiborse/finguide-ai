@@ -2,7 +2,7 @@
 ### India's AI-Powered Personal Finance Mentor
 > ET AI Hackathon 2026 — Problem Statement 9: AI Money Mentor
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://finguide-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://finguide-ai-lemon.vercel.app/)
 
 ---
 
